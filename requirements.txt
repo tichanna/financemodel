@@ -1,0 +1,8 @@
+streamlit==1.39.0
+matplotlib
+pandas
+numpy
+requests
+# Add other dependencies here as needed
+
+
